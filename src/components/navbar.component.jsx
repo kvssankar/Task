@@ -32,7 +32,7 @@ const NavBar = (props) => {
             <a href="#skills" className="nav-button">Skills </a>
             <a href="#skills" className="nav-button">Projects</a>
             <a href="#contact" className="nav-button">Contact </a>
-            <a href="https://github.com/kvssankar" className="nav-button spl-button">Rate me</a>
+            <a href="https://medium.com/@KvsSankar" className="nav-button spl-button">READ MY ARTICLES</a>
           </Nav>
         </Collapse>
       </Navbar>
