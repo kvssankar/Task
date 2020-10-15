@@ -5,7 +5,6 @@ import {
   NavbarToggler,
   NavbarBrand,
   Nav,
-  NavItem,
 } from "reactstrap";
 import "../sass/navbar.scss";
 const NavBar = (props) => {

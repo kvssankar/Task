@@ -6,8 +6,8 @@ import SkillBar from 'react-skillbars';
 const Part3 = () => {
   const SKILLS= [
     {
-      "type": "Java",
-      "level": 100,
+      "type": "C++",
+      "level": 80,
       "color": {
         "bar": "#3498db",
         "title": {
@@ -29,7 +29,7 @@ const Part3 = () => {
     },
     {
       "type": "Javascript",
-      "level": 75,
+      "level": 85,
       "color": {
         "bar": "#2c3e50",
         "title": {
@@ -39,8 +39,8 @@ const Part3 = () => {
       }
     },
     {
-      "type": "Spring",
-      "level": 50,
+      "type": "Java",
+      "level": 75,
       "color": {
         "bar": "#5a68a5",
         "title": {
@@ -50,8 +50,8 @@ const Part3 = () => {
       }
     },
     {
-      "type": "Docker",
-      "level": 25,
+      "type": "Python",
+      "level": 70,
       "color": {
         "bar": "#525252",
         "title": {
@@ -61,8 +61,8 @@ const Part3 = () => {
       }
     },
     {
-      "type": "HTML",
-      "level": 20,
+      "type": "Frontend Design",
+      "level": 90,
       "color": {
         "bar": "black",
         "title": {
@@ -72,10 +72,32 @@ const Part3 = () => {
       }
     },
     {
-      "type": "NoSQL",
-      "level": 0,
+      "type": "Mongodb",
+      "level": 70,
       "color": {
         "bar": "#2ecc71",
+        "title": {
+          "text": "#fff",
+          "background": "#27ae60"
+        }
+      }
+    },
+    {
+      "type": "NodeJs",
+      "level": 70,
+      "color": {
+        "bar": "#2ebc71",
+        "title": {
+          "text": "#fff",
+          "background": "#27ae60"
+        }
+      }
+    },
+    {
+      "type": "Github",
+      "level": 80,
+      "color": {
+        "bar": "#2ecc65",
         "title": {
           "text": "#fff",
           "background": "#27ae60"
