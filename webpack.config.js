@@ -2,7 +2,6 @@ const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const UglifyJsPlugin = require("uglifyjs-webpack-plugin");
 const webpack = require("webpack");
-const CopyWebpackPlugin = require("copy-webpack-plugin");
 const WorkboxPlugin = require("workbox-webpack-plugin");
 
 module.exports = {
@@ -72,9 +71,6 @@ module.exports = {
       swDest: "sw.js",
       clientsClaim: true,
       skipWaiting: true,
-    }),
-    new CopyWebpackPlugin({
-      patterns: [{ from: "public/img", to: "images/" }, "public/manifest.json"],
-    }),
+    })
   ],
 };

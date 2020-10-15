@@ -4,7 +4,7 @@ import {
     CardSubtitle, CardBody,Spinner
   } from 'reactstrap';
 import axios from 'axios';
-import "../github.css";
+import "../github.scss";
  
 const Github = () => {
     const [data,setData]=useState([]);

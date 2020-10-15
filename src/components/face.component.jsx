@@ -1,5 +1,5 @@
 import React from 'react';
-import '../face.css';
+import '../face.scss';
 const Face=()=>{
     return(
         <div className="face-card">

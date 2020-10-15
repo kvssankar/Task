@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+import "./App.scss";
 import NavBar from "./components/navbar.component";
 import Part1 from "./components/part1.component";
 import Part2 from "./components/part2.component";
