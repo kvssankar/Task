@@ -61,7 +61,7 @@ const Part3 = () => {
       }
     },
     {
-      "type": "Frontend Design",
+      "type": "Frontend",
       "level": 90,
       "color": {
         "bar": "black",
