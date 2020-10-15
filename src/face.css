@@ -1,0 +1,25 @@
+.face-card {
+  display: flex;
+  width: 70%;
+  margin: 50px auto;
+  background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+  padding: 100px;
+  border-radius: 20px;
+}
+
+.face-left {
+  width: 50%;
+}
+.face-left img {
+  border-radius: 20px;
+}
+
+.face-right {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+
+.flex {
+  margin: 5px;
+}

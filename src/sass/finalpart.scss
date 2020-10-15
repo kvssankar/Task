@@ -1,0 +1,26 @@
+.jumbotron {
+  margin-bottom: 0 !important;
+  background-color: black;
+  color: white;
+  padding: 100px !important;
+  display: flex;
+}
+
+.jumbotron p {
+  color: gray;
+}
+
+.jumbotron div {
+  width: 32%;
+  margin: 20px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 0px 0px;
+  grid-template-areas:
+    ". ."
+    ". .";
+}

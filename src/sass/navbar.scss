@@ -1,0 +1,30 @@
+$main: rgb(255, 51, 0);
+.custom-navbar {
+  .nav-main {
+    position: fixed;
+    color: $main;
+    font-weight: 600;
+  }
+  a.nav-button {
+    margin: 7px;
+    color: black;
+    text-transform: uppercase;
+    padding: 5px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+}
+
+.spl-button {
+  border-radius: 24px;
+  border: 1px solid $main;
+  padding: 5px 25px !important;
+  color: $main !important;
+  font-weight: 600;
+  outline: none;
+  background-color: transparent !important;
+}
+.spl-button:hover {
+  background-color: $main !important;
+  color: white !important;
+}
