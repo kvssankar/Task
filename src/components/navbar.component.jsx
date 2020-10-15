@@ -28,7 +28,7 @@ const NavBar = (props) => {
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="ml-auto" navbar >
-            <a href="#first" className="nav-button">Home </a>
+            <a href="/" className="nav-button">Home </a>
             <a  href="#about" className="nav-button">About</a>
             <a href="#skills" className="nav-button">Skills </a>
             <a href="#skills" className="nav-button">Projects</a>

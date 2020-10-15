@@ -36,7 +36,7 @@ const Part4 = () => (
             alt=""
             style={{width:"100px",height:"auto",marginBottom:"30px"}}
           />
-          <h4>Awesome Stickers</h4>
+          <h4>Cobid Stats</h4>
           <p>
           CovidStats and Healthcare support <span aria-label="emoji" role="img">🦸‍♂️</span>
           </p>
