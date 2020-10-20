@@ -12,9 +12,9 @@ const Part2 = () => (
         />
         <h4>Competitive Coder</h4>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos itaque
-          cupiditate nemo quia dolorem. Nam, quam obcaecati. Ad, quod
-          perspiciatis.
+        I am highly enthusiastic and self-motivating programmer. I have strengthed myself in various data structures, 
+        oops concepts and my problem solving skills. I am always hungry to learn more and more, and improving as a person.
+
         </p>
       </div>
       <div className="flex-element">
@@ -36,9 +36,7 @@ const Part2 = () => (
         />
         <h4>Technical Writer</h4>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos itaque
-          cupiditate nemo quia dolorem. Nam, quam obcaecati. Ad, quod
-          perspiciatis.
+          I am technical writer @Medium. I love sharing my knowledge in the easiest way possible and help others grow together
         </p>
       </div>
     </div>
