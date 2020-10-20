@@ -50,6 +50,28 @@ const Part3 = () => {
       }
     },
     {
+      "type": "Php",
+      "level": 8,
+      "color": {
+        "bar": "#4864e9",
+        "title": {
+          "text": "#fff",
+          "background": "#145g8c"
+        }
+      }
+    },
+    {
+      "type": "mySql",
+      "level": 75,
+      "color": {
+        "bar": "#4788f0",
+        "title": {
+          "text": "#fff",
+          "background": "#124e8c"
+        }
+      }
+    },
+    {
       "type": "Python",
       "level": 70,
       "color": {
